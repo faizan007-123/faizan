@@ -72,6 +72,10 @@ public:
 };
 
 int main() {
+    cout << "Name - Faizan Mhate" << endl;
+    cout << "Div  - B" << endl;
+    cout << "Roll No - 46" << endl;
+    cout << "---------------------------" << endl << endl;
     StudentResult str;
     int cnt, i;
     
