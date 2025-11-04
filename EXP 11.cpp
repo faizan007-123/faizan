@@ -84,6 +84,10 @@ cout << "Total Salary: " << (salarydouble + (overtime * 15)) << endl;
 };
 int main ()
 {
+    cout << "Name - Faizan Mhate" << endl;
+    cout << "Div  - B" << endl;
+    cout << "Roll No - 46" << endl;
+    cout << "---------------------------" << endl << endl;
 Employee* employees[3]; // Array of base class pointers
 SalariedEmployee newSalariedEmployee;
 HourlyEmployee newHourlyEmployee;
