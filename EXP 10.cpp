@@ -59,6 +59,10 @@ return side1 + side2 + side3; // Calculate the perimeter of the triangle using i
 }
 };
 int main() {
+    cout << "Name - Faizan Mhate" << endl;
+    cout << "Div  - B" << endl;
+    cout << "Roll No - 46" << endl;
+    cout << "---------------------------" << endl << endl;
 // Create instances of different shapes: Circle, Rectangle, and Triangle
 Circle circle(7.0); // Create a Circle object with radius 7.0
 Rectangle rectangle(4.2, 8.0); // Create a Rectangle object with length 4.2 and width 8.0
