@@ -8,6 +8,10 @@ float area(float,float);
 
 int main()
 {
+    cout << "Name - Faizan Mhate" << endl;
+    cout << "Div  - B" << endl;
+    cout << "Roll No - 46" << endl;
+    cout << "---------------------------" << endl << endl;
     int s,l,b;
     float r,bs,ht;
     
