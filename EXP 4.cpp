@@ -39,6 +39,10 @@ public:
 };
 
 int main() {
+    cout << "Name - Faizan Mhate" << endl;
+    cout << "Div  - B" << endl;
+    cout << "Roll No - 46" << endl;
+    cout << "---------------------------" << endl << endl;
     // Rectangle rect;
     Rectangle *rectm = new Rectangle(4.0,40.0);
 
