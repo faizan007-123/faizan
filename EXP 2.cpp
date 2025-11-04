@@ -55,6 +55,10 @@ void complex :: operate(complex o1, complex o2)
 
 int main()
 {
+    cout << "Name - Faizan Mhate" << endl;
+    cout << "Div  - B" << endl;
+    cout << "Roll No - 46" << endl;
+    cout << "---------------------------" << endl << endl;
     complex o1, o2, o3;
 
     o1.getdata();
