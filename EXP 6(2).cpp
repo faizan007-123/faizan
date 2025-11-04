@@ -26,6 +26,10 @@ public:
 };
 
 int main() {
+    cout << "Name - Faizan Mhate" << endl;
+    cout << "Div  - B" << endl;
+    cout << "Roll No - 46" << endl;
+    cout << "---------------------------" << endl << endl;
     // Creating objects of subclasses will also invoke base class constructor
     Car obj1;
     Bus obj2;
