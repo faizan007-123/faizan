@@ -29,6 +29,10 @@ cout << "TA's constructor called" << endl; [cite: 90]
 }
 };
 int main(){ [cite: 91]
+    cout << "Name - Faizan Mhate" << endl;
+    cout << "Div  - B" << endl;
+    cout << "Roll No - 46" << endl;
+    cout << "---------------------------" << endl << endl;
 TA ta; // Creating an object of TA [cite: 92]
  return 0; [cite: 92]
 } [cite: 96]
