@@ -26,6 +26,10 @@ return in;
 }
 int main()
 {
+    cout << "Name - Faizan Mhate" << endl;
+    cout << "Div  - B" << endl;
+    cout << "Roll No - 46" << endl;
+    cout << "---------------------------" << endl << endl;
 Complex c1;
 cin >> c1;
 cout << "The complex object is ";
