@@ -24,6 +24,10 @@ Bus() { cout << "This Vehicle is a Bus with Fare\n"; } [cite: 164]
 // main function [cite: 166]
 int main() [cite: 167]
 { [cite: 168]
+    cout << "Name - Faizan Mhate" << endl;
+    cout << "Div  - B" << endl;
+    cout << "Roll No - 46" << endl;
+    cout << "---------------------------" << endl << endl;
 // Creating object of subclass will [cite: 170]
 // invoke the constructor of base class. [cite: 171]
 Bus obj2; [cite: 172]
